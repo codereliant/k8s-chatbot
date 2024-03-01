@@ -2,6 +2,8 @@
 A chatbot that can chat with your Kubernetes cluster.
 It uses OpenAI's GPT-3 to generate responses, and OpenAI's function calling to interact with the Kubernetes cluster.
 
+https://www.codereliant.io/chat-with-your-kubernetes-cluster/
+
 
 ### Set up
 python3 -m venv .venv
