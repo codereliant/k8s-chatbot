@@ -6,11 +6,14 @@ https://www.codereliant.io/chat-with-your-kubernetes-cluster/
 
 
 ### Set up
+```
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-
+```
 
 ### Run
+```
 export OPENAI_API_KEY=your_api_key
 python chat_with_k8s.py
+```
